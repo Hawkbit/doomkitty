@@ -1,0 +1,30 @@
+api-docs
+Install atom (by Github)
+
+documentation lookup
+autocompletion
+code formatting
+code linting
+
+
+(emmet)
+(atom-beautify)
+(autocomplete-paths)
+(api-docs)
+(linter)
+(linter-csslint)
+(linter-htmlhint)
+(linter-eslint)
+
+MDN - developer.mozilla.org/en-US
+devdocs.io
+stackoverflow.com
+html5please.com - feature support
+caniuse.com - browser version feature support
+
+Install: node.js
+	 npm install -g browser-sync (-g is for global)
+
+Alternatives to Atom:
+Visual Studio Code
+Brackets

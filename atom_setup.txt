@@ -28,3 +28,5 @@ Install: node.js
 Alternatives to Atom:
 Visual Studio Code
 Brackets
+
+browser-sync start --server --files "stylesheets/*.css *.html"

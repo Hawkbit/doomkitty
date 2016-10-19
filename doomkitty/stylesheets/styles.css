@@ -1,6 +1,17 @@
+@font-face {
+  font-family: 'lakeshore';
+  src: url('fonts/LAKESHOR-webfont.eot');
+  src: url('fonts/LAKESHOR-webfont.eot?#iefix') format('embedded-opentype'),
+       url('fonts/LAKESHOR-webfont.woff') format('woff'),
+       url('fonts/LAKESHOR-webfont.ttf') format('truetype'),
+       url('fonts/LAKESHOR-webfont.svg#lakeshore') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body{
   font-size: 10px;
-  background: rgb(149,194,215);
+  background: rgb(0,0,0);
 }
 
 a{
@@ -13,6 +24,7 @@ a{
 
   text-align: center;
   text-transform: uppercase;
+  font-family: lakeshore;
   font-size: 37px;
 }
 
@@ -41,8 +53,8 @@ a{
   margin: 0;
   padding: 4px 10px;
 
-  background: rgb(96, 125, 139);
-  color: rgb(202, 238, 255);
+  background: rgb(150, 150, 150);
+  color: rgb(150, 0, 0);
 
   font-size: 18px;
 }
